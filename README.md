@@ -11,4 +11,5 @@ After imputation, all the columns are filled.
 
 Let's have a look at the imputation effect. Amazing!
 
-![image](https://github.com/hanfei1986/Impute-missing-data-with-KNNImputer/assets/59255164/b35e2a7d-6f16-44e1-ac5c-d952e28261dc)
+![image](https://github.com/hanfei1986/Impute-missing-data-with-KNNImputer/assets/59255164/1e97712f-5979-4e5d-b700-88df0af46a21)
+
