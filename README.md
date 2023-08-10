@@ -1,5 +1,5 @@
-# Impute-missing-data-with-KNNImputer
-When signaficant amont of data are missing, what can we do? Impute the missing data with mean or median? Actually, Scikit-Learn provides a KNNImputer which can impute missing data using the mean value from n_neighbors nearest neighbors found in the training set.
+# Impute-missing-data-with-KNNImputer-and-IterativeImputer
+When signaficant amont of data are missing, what can we do? Impute the missing data with mean or median? That will be a diaster. Actually, Scikit-Learn provides two powerful imputer, KNNImputer and IterativeImputer. The former imputes missing data using the mean value from n_neighbors nearest neighbors found in the training set, and the latter is inspired by R's MICE package and imputes missing values by modeling each feature with missing values as a function of other features in a round-robin fashion.
 
 Before imputation, there are significant amount of "Cost", a few "Weight", and many "Ingredient Number" data missing in the dataset.
 
